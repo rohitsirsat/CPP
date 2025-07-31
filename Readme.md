@@ -22,6 +22,8 @@
 ### primitive:
 
 - int
+- short
+- long
 - float
 - double
 - char
